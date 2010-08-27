@@ -1,0 +1,2 @@
+instructions.configure=\
+org.eclipse.equinox.p2.touchpoint.natives.unzip(source:${installFolder}/plugins/org.opensixen.bundle.servletbridge_1.0.0/WEB-INF.zip,target:${installFolder}/../../);
